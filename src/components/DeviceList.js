@@ -16,4 +16,4 @@ const DeviceList = observer(() => {
     );
 });
 
-export default DeviceList;
+export default DeviceList; //scw
